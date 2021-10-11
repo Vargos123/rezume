@@ -55,7 +55,6 @@ p{
     font-size: 24px;
     line-height: 28px;
     color: #3D3A3A;
-    mix-blend-mode: normal;
     margin-left: 458px;
     margin-top: 147px;
 }
@@ -69,7 +68,6 @@ p{
     font-size: 36px;
     line-height: 42px;
     color: #3D3A3A;
-    mix-blend-mode: normal;
     margin-left: 458px;
 }
 
@@ -86,7 +84,6 @@ line-height: 28px;
 
 color: #3D3A3A;
 
-mix-blend-mode: normal;
 }
 .educations{
 position: absolute;
@@ -99,8 +96,6 @@ font-size: 30px;
 line-height: 35px;
 
 color: #E09595;
-
-mix-blend-mode: normal;
 }
 
 #sss1{
@@ -113,7 +108,6 @@ font-weight: normal;
 font-size: 36px;
 line-height: 42px;
 color: #3D3A3A;
-mix-blend-mode: normal;
 }
 
 ul{
@@ -129,24 +123,19 @@ line-height: 23px;
 
 color: #3D3A3A;
 
-mix-blend-mode: normal
 }
 
 #ds2, #ds3
 {
-    position: absolute;
+position: absolute;
 width: 391px;
 height: 28px;
-
 font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 24px;
 line-height: 28px;
-
 color: rgba(61, 58, 58, 0.5);
-
-mix-blend-mode: normal;
 }
 
 .lastone{
